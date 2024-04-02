@@ -1,6 +1,6 @@
 import css from './Profile.module.css';
 
-function Profile({ name, tag, location, image, stats }) {
+function Error({ name, tag, location, image, stats }) {
   return (
     <div className={css.profile}>
       <div className={css.description}>
